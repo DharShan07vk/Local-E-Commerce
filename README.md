@@ -13,7 +13,7 @@ Make sure you have the following installed on your system:
 1. **Clone the repository:**
 
 ```
-git clone https://github.com/DharShan07vk/Local-E-Commerce
+git clone https://github.com/DharShan07vk/Local-E-Commerce.git
 ```
 
 2.**Install dependencies:**
